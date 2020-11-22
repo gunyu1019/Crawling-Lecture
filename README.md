@@ -4,8 +4,8 @@
 자세한 정보는 [링크](https://coding-y.tistory.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B0%95%EC%A2%8C/%ED%81%AC%EB%A1%A4%EB%A7%81%20%EA%B0%95%EC%A2%8C)를 눌러서 확인해주세요.
 
 ## 강좌 순서
-1. 크롤링 이란?
-2. 파이썬을 통하여 html를 불러오자.
-3. 크롤링의 기초
-4. find를 사용하여 값을 불러오자 (예제: [crawling_4.py](crawling_4.py))
-5. select를 사용하여 값을 불러오자 (예제: [crawling_5.py](crawling_5.py))
+1. [크롤링 이란?](https://coding-y.tistory.com/33)
+2. [파이썬을 통하여 html를 불러오자.](https://coding-y.tistory.com/34)
+3. [크롤링의 기초](https://coding-y.tistory.com/35)
+4. [find를 사용하여 값을 불러오자](https://coding-y.tistory.com/43) (예제: [crawling_4.py](crawling_4.py))
+5. [select를 사용하여 값을 불러오자](https://coding-y.tistory.com/44) (예제: [crawling_5.py](crawling_5.py))
